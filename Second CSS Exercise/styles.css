@@ -1,0 +1,22 @@
+/* styles.css */
+
+.odd-numbered-elements {
+  background-color: #DE407D;
+  color: white;
+  font-family: Verdana; "DejaVu Sans"; sans-serif;
+  }
+
+#second-element {
+  color: #5240DE;
+  font-size: 36px;
+  }
+
+.third-elements {
+  font-size: 24px;
+  } 
+
+#fourth-elements {
+  background-color: #6df887;
+  font-size: 24px;
+  font-weight: bold;
+    }
