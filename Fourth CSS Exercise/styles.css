@@ -1,0 +1,15 @@
+/* styles.css */
+img {
+    height: auto;
+    width: 400px;
+  }
+
+.avatar.proportioned {
+    height: auto;
+    width: 300px;
+} 
+
+.avatar.distorted {
+    height: 400px;
+    width: 200px;
+  }
